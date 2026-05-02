@@ -1,3 +1,5 @@
-# experimental-usercard
+# Modern User Card
 
-This component replaces the existing core user card for a new design.
+This repository is a fork of the [experimental-usercard](https://github.com/discourse/experimantal-usercard) repo which was archived and broken.
+
+**Meta Topic**: 

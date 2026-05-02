@@ -63,6 +63,6 @@ export default apiInitializer("0.11.1", (api) => {
       if (isEmpty(backgroundUrl) && !isEmpty(avatar_template)) {
         thisElem.classList.add("avatar-background");
       }
-    },
+    }
   });
 });
